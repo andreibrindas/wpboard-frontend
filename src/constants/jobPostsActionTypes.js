@@ -1,0 +1,4 @@
+export const CREATE_JOB_POST = "CREATE_JOB_POST";
+export const UPDATE_JOB_POST = "UPDATE_JOB_POST";
+export const DELETE_JOB_POST = "DELETE_JOB_POST";
+export const FETCH_ALL_JOB_POST = "FETCH_ALL_JOB_POST";
